@@ -15,11 +15,13 @@ export default {
 			poppins: 'Poppins'
 		  },
 		  colors: {
-			box: 'rgba(120, 120, 120, 0.2)',
-			paragraf: '#787878',
-			main: '#500DE0',
-			boxborder: '#4D4D4D',
-			bg: '#212027',
+			baseBg: '#FFF5E7',
+			main: '#ECBF1C',
+			alternative: '#337150',
+			second: '#5A8840',
+			accent: '#AA9680',
+			desc: '#17371E',
+			dark: '#343535'
 		  },
 		},
 	  },
